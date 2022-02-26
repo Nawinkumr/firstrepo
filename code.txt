@@ -1,4 +1,4 @@
 1st line
 modified to check logs
 this edited from b1
-conflict checkingb3
+conflict checkingb3 with master
